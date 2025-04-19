@@ -11,6 +11,6 @@ Zaidan is a graduate of the integrated Bachelor's and Master's degree program in
 
 
 # Publications
-- efsef
-- sefsef
-- sefsef
+- Wervyan Shalannanda, Fahmi Fahmi, Faishal Zharfan, **Naufal Zaidan Nabhan**, Ibni Inggrianti, Erwin Sutanto, Muhammad Yazid, _Data Communication and Dashboard for Wearable EEG Monitoring Device_. **Journal of Universal Computer Science (JUCS) - Under Review** [/files/CV_Zaidan.pdf]
+- **Naufal Zaidan Nabhan**, Joko Suryana, _LoRa Based Underwater Wireless Network System _. **2024 10th International Conference on Wireless and Telematics (ICWT ’24)** [/files/23223018_Naufal%20Zaidan%20Nabhan_Paper.pdf]
+- **Naufal Zaidan Nabhan**, Basuki Rachmatul Alam, _Optimum design of 60WAlGaN/GaN Broadband RF Amplifier for S-Band Operation_. **2022 International Symposium on Electronics and Smart Devices (ISESD ’22)** [/files/Design_broadband_60W_S_band_GaN_HEMT.pdf]
