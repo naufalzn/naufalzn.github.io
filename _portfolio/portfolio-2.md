@@ -22,6 +22,16 @@ The sinuous antenna was chosen due to its self-complementary structure, which su
 - Achieved bandwidth of 5-10 GHz (simulation)
 - Stable radiation pattern with broadside or end-fire directionkality
 
-Screenshots / Diagrams
+**Figures**
+
 <img src='/images/sinuous_antenna.png'>
 <p style="text-align:center;">Fig. 1 Sinuous Antenna Design</p>
+
+<img src='/images/sinuous_antenna_saram.png'>
+<p style="text-align:center;">Fig. 2 Sinuous Antenna S11 Parameter</p>
+
+<img src='/images/sinuous_antenna_radiation.png'>
+<p style="text-align:center;">Fig. 3 Sinuous Antenna Radiation Pattern</p>
+
+<img src='/images/sinuous_antenna_fabricated.png'>
+<p style="text-align:center;">Fig. 2 Sinuous Antenna Fabrication Result</p>
