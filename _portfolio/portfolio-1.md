@@ -1,6 +1,6 @@
 ---
 title: "FMCW Radar Signal Processing"
-excerpt: "Implemented a real-time FMCW radar system using NI USRP B210 and LabVIEW by generating and transmitting linear chirp signals. The receiver module captured echo signals to extract time-delay and estimate range. The system was first simulated in LabVIEW, then validated through physical measurements and spectrum analysis. This project provided hands-on experience in SDR-based radar systems, signal integrity verification, and time-frequency analysis.<br/><img src='/images/fmcw_radar_1.jpg'>"
+excerpt: "Implemented a real-time FMCW radar system using NI USRP B210 and LabVIEW by generating and transmitting linear chirp signals. The receiver module captured echo signals to extract time-delay and estimate range. The system was first simulated in LabVIEW, then validated through physical measurements and spectrum analysis. This project provided hands-on experience in SDR-based radar systems, signal integrity verification, and time-frequency analysis.<br/><img src='/images/fmcw_radar_setup.png'>"
 collection: portfolio
 ---
 
@@ -23,5 +23,17 @@ In this project, I designed an FMCW radar system by generating a linear frequenc
 - Successfully demonstrated end-to-end FMCW signal transmission and reception using USRP
 - Gained hands-on experience in software-defined radio (SDR) implementation and real-time signal testing
 
-Screenshots / Diagrams
-<img src='/images/fmcw_radar_1.jpg'>
+**Figures**
+
+<img src='/images/fmcw_radar_signalecho.jpg.png'>
+<p>Fig. 1 FMCW Transmit & Echo Signal</p>
+
+<img src='/images/fmcw_radar_setup.png'>
+<p>Fig. 2 Measurement Setup</p>
+
+<img src='/images/fmcw_radar_beat.png'>
+<p>Fig. 3 Beat Frequency Extraction Simulation Result</p>
+
+<img src='/images/fmcw_radar_result.png'>
+<p>Fig. 4 Object Detection Result</p>
+
