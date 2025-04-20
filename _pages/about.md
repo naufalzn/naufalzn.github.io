@@ -19,7 +19,7 @@ Zaidan is a graduate of the integrated Bachelor's and Master's degree program in
 **Teaching Assistant**
 - Electromagnetics I
   
-Lab. Coordinator Assistant
+**Lab. Coordinator Assistant**
 - Communication Systems I 
 - Communication Systems II
 - Signal Processing
