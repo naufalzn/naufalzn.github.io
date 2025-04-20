@@ -15,6 +15,9 @@ Zaidan is a graduate of the integrated Bachelor's and Master's degree program in
 - **Naufal Zaidan Nabhan**, Joko Suryana, _LoRa Based Underwater Wireless Network System_. **2024 10th International Conference on Wireless and Telematics (ICWT ’24)** [PDF](https://naufalzn.github.io/files/23223018_Naufal%20Zaidan%20Nabhan_Paper.pdf)
 - **Naufal Zaidan Nabhan**, Basuki Rachmatul Alam, _Optimum design of 60WAlGaN/GaN Broadband RF Amplifier for S-Band Operation_. **2022 International Symposium on Electronics and Smart Devices (ISESD ’22)** [PDF](https://naufalzn.github.io/files/Design_broadband_60W_S_band_GaN_HEMT.pdf)
 
+# Portfolio
+Check out my past research/projects on [portfolio page](https://naufalzn.github.io/portfolio/).
+
 # Teaching
 **Teaching Assistant**
 - Electromagnetics I
