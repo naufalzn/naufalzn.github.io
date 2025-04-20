@@ -23,4 +23,5 @@ The sinuous antenna was chosen due to its self-complementary structure, which su
 - Stable radiation pattern with broadside or end-fire directionkality
 
 Screenshots / Diagrams
-<img src='/images/fmcw_radar_1.jpg'>
+<img src='/images/sinuous_antenna.png'>
+<p style="text-align:center;">Fig. 1 Sinuous Antenna Design</p>
