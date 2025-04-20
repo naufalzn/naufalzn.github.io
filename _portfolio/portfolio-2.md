@@ -25,13 +25,13 @@ The sinuous antenna was chosen due to its self-complementary structure, which su
 **Figures**
 
 <img src='/images/sinuous_antenna.png'>
-<p style="text-align:center;">Fig. 1 Sinuous Antenna Design</p>
+<p>Fig. 1 Sinuous Antenna Design</p>
 
 <img src='/images/sinuous_antenna_saram.png'>
-<p style="text-align:center;">Fig. 2 Sinuous Antenna S11 Parameter</p>
+<p>Fig. 2 Sinuous Antenna S11 Parameter</p>
 
 <img src='/images/sinuous_antenna_radiation.png'>
-<p style="text-align:center;">Fig. 3 Sinuous Antenna Radiation Pattern</p>
+<p>Fig. 3 Sinuous Antenna Radiation Pattern</p>
 
 <img src='/images/sinuous_antenna_fabricated.png'>
-<p style="text-align:center;">Fig. 2 Sinuous Antenna Fabrication Result</p>
+<p>Fig. 4 Sinuous Antenna Fabrication Result</p>
