@@ -1,6 +1,6 @@
 ---
 title: "Wideband Sinuous Antenna"
-excerpt: "Designed and simulated a sinuous antenna using CST Microwave Studio for short range, high speed, and broadband communication. The antenna demonstrated wideband operation (5-10 GHz) with stable broadside radiation patterns.<br/><img src='/images/fmcw_radar_1.jpg'>"
+excerpt: "Designed and simulated a sinuous antenna using CST Microwave Studio for short range, high speed, and broadband communication. The antenna demonstrated wideband operation (5-10 GHz) with stable broadside radiation patterns.<br/><img src='/images/sinuous_antenna.png'>"
 collection: portfolio
 ---
 
