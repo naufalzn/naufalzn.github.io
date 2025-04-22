@@ -12,7 +12,7 @@ Master's Degree Antenna & Wave Propagation Class Semester 3, Bandung Institute o
 
 **Objective**
 
-To implement and test an FMCW (Frequency Modulated Continuous Wave) radar signal generation and reception system using NI USRP and LabVIEW, and validate performance through real-time measurement.
+To design and simulate a sinuous antenna for broadband communication, ensuring stable performance
 
 **Description**
 
