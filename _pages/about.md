@@ -19,7 +19,7 @@ Bandung Institute of Technology (ITB), Indonesia, 2023-2024
 - ITB GTA Scholarship, 2023 - 2024
 
 # Publications
-- **Naufal Zaidan Nabhan**, Joko Suryana, [_LoRa Based Underwater Wireless Network System_](https://ieeexplore.ieee.org/abstract/document/10674681). **2024 10th International Conference on Wireless and Telematics (ICWT ’24)**.
+- **Naufal Zaidan Nabhan**, Joko Suryana, [_LoRa Based Underwater Wireless Network System_](https://ieeexplore.ieee.org/abstract/document/10674681). **2024 10th International Conference on Wireless and Telematics (ICWT ’24)**
 - **Naufal Zaidan Nabhan**, Basuki Rachmatul Alam, [_Optimum design of 60WAlGaN/GaN Broadband RF Amplifier for S-Band Operation_](https://ieeexplore.ieee.org/abstract/document/9980787). **2022 International Symposium on Electronics and Smart Devices (ISESD ’22)**
 
 # Professional Works
