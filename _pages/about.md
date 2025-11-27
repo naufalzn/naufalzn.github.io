@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Zaidan is a graduate of the integrated Bachelor's and Master's degree program in Telecommunication Engineering and Electrical Engineering from the Bandung Institute of Technology (ITB), completed through a 5-year fast-track scheme. He is highly motivated to acquire new knowledge and practical experience through research and real-world projects. His primary research interests include Wireless Communication Systems, RF and Microwave Devices, and Radar Sensing & Navigation Systems. Driven by a long-term aspiration to contribute to the development of wireless communication industry, Zaidan is committed to advancing cutting-edge research and innovation in the field.
+I'm an incoming ECE PhD student at [Sungkyunkwan University](https://sw.skku.edu/eng_sw/grad_electronics_intro.do#N), will be supervised by [Prof. Kae-Won Choi](https://pure.skku.edu/en/persons/kae-won-choi/). My research focuses on Wireless Communication Systems. I hold Bachelor's and Master's degrees in Telecommunications Engineering and Electrical Engineering from [Bandung Institute of Technology (ITB)](https://itb.ac.id/), advised by [Dr. Joko Suryana](https://itb.ac.id/staf/profil/joko-suryana).
 
 # Educations
 - **Bachelor of Engineering (B.Eng.)**, Telecommunications Engineering\
 Bandung Institute of Technology (ITB), Indonesia, 2019-2023
 - **Master of Engineering (M.Eng.)**, Electrical Engineering\
 Bandung Institute of Technology (ITB), Indonesia, 2023-2024
+- **(Incoming) Doctor of Philosophy (Ph.D.)**, Electrical and Computer Engineering\
+Sungkyunkwan University (SKKU), South Korea, 2026
 
 # Awards
 - ITB GTA Scholarship, 2023 - 2024
