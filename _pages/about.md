@@ -15,7 +15,7 @@ Bandung Institute of Technology (ITB), Indonesia, 2019-2023
 - **Master of Science (M.S.) / Magister Teknik (M.T.)**, Electrical Engineering\
 Bandung Institute of Technology (ITB), Indonesia, 2023-2024
 - **(Incoming) Doctor of Philosophy (Ph.D.)**, Electrical and Computer Engineering\
-Sungkyunkwan University (SKKU), South Korea, 2026
+Sungkyunkwan University (SKKU), Republic of Korea, 2026
 
 # Awards
 - ITB GTA Scholarship, 2023 - 2024
