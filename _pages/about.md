@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming ECE PhD student at [Sungkyunkwan University (SKKU)](https://sw.skku.edu/eng_sw/grad_electronics_intro.do#N), will be supervised by [Prof. Kae-Won Choi](https://pure.skku.edu/en/persons/kae-won-choi/). My research primarily focuses on Wireless Communication Systems. I hold Bachelor's and Master's degrees in Telecommunications Engineering and Electrical Engineering from [Bandung Institute of Technology (ITB)](https://itb.ac.id/), advised by [Dr. Joko Suryana](https://itb.ac.id/staf/profil/joko-suryana).
+I'm a PhD student member of [CIOT Lab](https://ciot.skku.edu/) at Electrical and Computer Engineering, [Sungkyunkwan University (SKKU)](https://sw.skku.edu/eng_sw/grad_electronics_intro.do#N). I will be supervised by [Prof. Kae-Won Choi](https://pure.skku.edu/en/persons/kae-won-choi/). My research primarily focuses on AI Communications. I hold Bachelor's and Master's degrees in Telecommunications Engineering and Electrical Engineering from [Bandung Institute of Technology (ITB)](https://itb.ac.id/), advised by [Dr. Joko Suryana](https://itb.ac.id/staf/profil/joko-suryana).
 
 # Educations
 - **Bachelor of Science (B.S.) / Sarjana Teknik (S.T.)**, Telecommunications Engineering\
 Bandung Institute of Technology (ITB), Indonesia, 2019-2023
 - **Master of Science (M.S.) / Magister Teknik (M.T.)**, Electrical Engineering\
 Bandung Institute of Technology (ITB), Indonesia, 2023-2024
-- **(Incoming) Doctor of Philosophy (Ph.D.)**, Electrical and Computer Engineering\
+- **Doctor of Philosophy (Ph.D.)**, Electrical and Computer Engineering\
 Sungkyunkwan University (SKKU), Republic of Korea, 2026
 
 # Awards
