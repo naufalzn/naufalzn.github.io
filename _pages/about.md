@@ -18,8 +18,8 @@ Bandung Institute of Technology (ITB), Indonesia, 2023-2024
 Sungkyunkwan University (SKKU), Republic of Korea, 2026
 
 # Awards
-- SKKU STEM Scholarship, 2026 - present
 - ITB GTA Scholarship, 2023 - 2024
+- SKKU STEM Scholarship, 2026
 
 # Publications
 - **Naufal Zaidan Nabhan**, Joko Suryana, [_LoRa Based Underwater Wireless Network System_](https://ieeexplore.ieee.org/abstract/document/10674681). **2024 10th International Conference on Wireless and Telematics (ICWT ’24)**
