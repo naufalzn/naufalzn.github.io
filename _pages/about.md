@@ -18,6 +18,7 @@ Bandung Institute of Technology (ITB), Indonesia, 2023-2024
 Sungkyunkwan University (SKKU), Republic of Korea, 2026
 
 # Awards
+- SKKU STEM Scholarship, 2026 - present
 - ITB GTA Scholarship, 2023 - 2024
 
 # Publications
