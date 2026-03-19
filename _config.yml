@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Naufal Zaidan Nabhan"
 title_separator          : "-"
 name                     : &name "Naufal Zaidan Nabhan"
-description              : &description "Incoming ECE PhD Student at SKKU"
+description              : &description "ECE PhD Student at SKKU"
 url                      : https://naufalzn.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "naufalzn/naufalzn.github.io"
@@ -22,7 +22,7 @@ repository               : "naufalzn/naufalzn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ava.jpeg"
+  avatar           : "ava_1.jpeg"
   name             : "Naufal Zaidan Nabhan"
   pronouns         : # example: "she/her"  
   bio              : "ECE PhD Student at SKKU"
