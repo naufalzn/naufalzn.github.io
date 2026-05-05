@@ -22,8 +22,9 @@ Sungkyunkwan University (SKKU), Republic of Korea, 2026
 - SKKU STEM Scholarship, 2026
 
 # Publications
-- **Naufal Zaidan Nabhan**, Joko Suryana, [_LoRa Based Underwater Wireless Network System_](https://ieeexplore.ieee.org/abstract/document/10674681). **2024 10th International Conference on Wireless and Telematics (ICWT ’24)**
 - **Naufal Zaidan Nabhan**, Basuki Rachmatul Alam, [_Optimum design of 60WAlGaN/GaN Broadband RF Amplifier for S-Band Operation_](https://ieeexplore.ieee.org/abstract/document/9980787). **2022 International Symposium on Electronics and Smart Devices (ISESD ’22)**
+- **Naufal Zaidan Nabhan**, Joko Suryana, [_LoRa Based Underwater Wireless Network System_](https://ieeexplore.ieee.org/abstract/document/10674681). **2024 10th International Conference on Wireless and Telematics (ICWT ’24)**
+- Joko Suryana, **Naufal Zaidan Nabhan**, Ali Rhomadoni, M. Iqbal Arrachman, Reuben T.C. Simatupang, [_Microwave Wireless Power Transfer for Mid-Air UAV Charging Using a Distributed Tiled Rectenna Architecture in 5G-Enabled Aerial Networks_]([https://ieeexplore.ieee.org/abstract/document/10674681](https://ieeexplore.ieee.org/document/11505832). **IEEE Access**
 
 # Professional Works
 - **Research Assistant**, PT. LAPI ITB, 2023 - 2024
